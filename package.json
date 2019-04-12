@@ -1,0 +1,25 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "proyecto calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coli2101/CursoAngular.git"
+  },
+  "keywords": [
+    "calculadora"
+  ],
+  "author": "jose francisco gomez <francisco.gomez2101@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coli2101/CursoAngular/issues"
+  },
+  "homepage": "https://github.com/coli2101/CursoAngular#readme",
+  "dependencies": {
+    "webpack": "^4.30.0"
+  }
+}
